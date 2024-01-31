@@ -36,9 +36,6 @@ This project is centered around a real-world dataset that requires careful clean
     - Train two different classification models.
     - Evaluate the accuracy and effectiveness of these models in predicting the appropriate dose based on analyzed factors.
 
-### Note
-- It's vital to ask clarifying questions to ensure a comprehensive understanding of the dataset and the required analyses.
-- Employ a combination of NumPy, Pandas, visualization, and Exploratory Data Analysis (EDA) techniques to accomplish the project objectives.
 
 ## Conclusion
 This project aims to demonstrate the ability to handle real-world data, apply sentiment and text analysis techniques, and leverage machine learning for predictive modeling. The key is to derive actionable insights that can inform decision-making processes.
